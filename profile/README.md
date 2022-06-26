@@ -1,7 +1,7 @@
 ## WorldSeed MMO
 
 ### About
-This is an MMO built on [Minestom](https://github.com/Minestom/Minestom), an open source Minecraft server implementation. Some of the tools used to create the server will be open-sourced here.
+This is an MMORPG engine built on [Minestom](https://github.com/Minestom/Minestom), an open source Minecraft server implementation. Some of the tools used to create the server will be open-sourced here.
 
 The goal of this project is to create a game engine for Minecraft. Users will be able to easily create scalable MMORPG's with a web UI, a build server and a client plugin.
 

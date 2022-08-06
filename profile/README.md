@@ -8,4 +8,4 @@ The goal of this project is to create a game engine for Minecraft. Users will be
 Players will be able to join and play without any client mods. Resource packs are automatically generated and set to the client on connection.
 
 ### Progress
-To view progress on the game, join our discord server [here](https://discord.com/invite/nwqKh4QWpy)
+To view progress on the engine, join our discord server [here](https://discord.com/invite/nwqKh4QWpy)

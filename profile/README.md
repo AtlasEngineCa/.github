@@ -1,4 +1,4 @@
-## Seed Nexus Engine
+## Atlas Engine
 
 ### About
 This is an MMORPG engine built on [Minestom](https://github.com/Minestom/Minestom), an open source Minecraft server implementation. Some of the tools used to create the server will be open-sourced here.
